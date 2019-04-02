@@ -1,4 +1,6 @@
 hi
 trying to do 3 commits
+**add newline0 00
 try to squash
 pick2
+**add newline1
