@@ -1,0 +1,4 @@
+hi
+trying to do 3 commits
+try to squash
+pick2
