@@ -4,3 +4,4 @@ trying to do 3 commits
 try to squash
 pick2
 **add newline1
+**add newline2
