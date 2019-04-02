@@ -3,8 +3,7 @@ trying to do 3 commits
 **add newline0 00
 try to squash
 change commit message
-
-
+when it opens editor after rebasiing, and msgs not changed, it took older commit message(eventhough the msg of newer msg exists)
 pick2
 i will add in the middle... no conflict 
 **add newline1
@@ -12,5 +11,3 @@ i will add in the middle... no conflict
 **for next commit
 
 gfhh
-
-evert this commit plz
